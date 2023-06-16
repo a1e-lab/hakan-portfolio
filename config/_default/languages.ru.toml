@@ -14,7 +14,7 @@ weight = 3
 
 [author]
   name = "Hakan Karaman"
-  image = "img/hk.jpg"
+  image = "img/hk_photo.jpg"
   headline = "I'm only human"
   bio = "A little bit about you"
   links = [
