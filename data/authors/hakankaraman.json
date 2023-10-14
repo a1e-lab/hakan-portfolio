@@ -1,0 +1,11 @@
+{
+    "name": "Hakan Karaman",
+    "image" : "img/hk_photo.jpg",
+    "bio": "Lead architector and founder of Zürafa architect agency",
+    "social": [
+        { "instagram": "https://instagram.com" },
+        { "pinterest": "https://pinterest.com" },
+        { "whatsapp": "http://whatsapp.com" },
+        { "facebook": "https://facebook.com" }
+    ]
+}

@@ -10,7 +10,7 @@ autoSwitchAppearance = true
 rtl = false
 dateFormat = "2 January 2006"
 
-copyright = "Copyright © 2023 [AleLab](https://github.com/a1e-lab/)"
+copyright = "Copyright © 2023 Hakan Karaman; Created by [AleLab](https://github.com/a1e-lab/)"
 
 enableSearch = true
 enableCodeCopy = false
@@ -23,8 +23,8 @@ mainSections = ["project", "services"]
 
 disableImageOptimization = false
 
-logo = "img/logo.png"
-secondaryLogo = "img/light_logo.png"
+# logo = "img/logo.png"
+# secondaryLogo = "img/light_logo.png"
 
 defaultBackgroundImage = "/img/bg.jpg"
 defaultFeaturedImage = "/img/bg.jpg"
@@ -48,11 +48,11 @@ smartTOCHideUnfocusedChildren = true
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 6
-  showMoreLink = false
+  showRecent = true
+  showRecentItems = 9
+  showMoreLink = true
   showMoreLinkDest = "/project"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
@@ -92,7 +92,7 @@ smartTOCHideUnfocusedChildren = true
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showSummary = false
-  showViews = true
+  showViews = false
   showLikes = true
   showTableOfContents = true
   showCards = true

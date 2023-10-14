@@ -75,7 +75,7 @@
   weight = 25
 
 [[main]]
-  name = "Референции"
+  name = "Рекомендации"
   pageRef = "reference"
   weight = 30
 
@@ -94,11 +94,11 @@
 #  pageRef = "pagTest"
 #  weight = 1000
 
-[[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 200
+# [[main]]
+#   identifier = "twitter"
+#   pre = "twitter"
+#   url = "https://twitter.com/burufugu"
+#   weight = 200
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 2
 
-# title = "Home"
+title = "Zürafa"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -10,14 +10,14 @@ weight = 2
   displayName = "🇬🇧"
 
 
-  # mainSections = ["section1", "section2"]
+  # jainSections = ["section1", "section2"]
   # description = "My awesome website"
 
 [author]
-  name = "Hakan Karaman"
-  image = "img/hk_photo.jpg"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  name = "Zürafa"
+  image = "img/logo.png"
+  headline = "Hakan Karaman's architectural agency"
+  bio = "Our architectural agency provides a full range of architectural services."
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },

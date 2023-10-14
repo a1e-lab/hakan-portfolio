@@ -1,9 +1,11 @@
 ---
 title: "HAKAN KARAMAN"
 date: 2023-06-14T15:15:08+03:00
-description: ""
+description: "Известный Турецкий архитектор"
 layoutBackgroundHeaderSpace: false
 showAuthor: true
+authors:
+  - "hakankaraman"
 ---
 
 Хакан Караман, родился в 1978 году.\
@@ -13,3 +15,9 @@ showAuthor: true
 он открыл свое собственное архитектурное бюро.\
 Хакан Караман постоянно ищет знания, открывает новые области,
 и вносит свой вклад в архитектуру, придерживаясь принципов идеи, функции и формы в своей работе.
+
+{{< gallery >}}
+<img src="hk_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="hk_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="hk_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}

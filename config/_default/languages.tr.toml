@@ -2,7 +2,7 @@ languageCode = "tr"
 languageName = "Turkçe"
 weight = 1
 
-title = "Hakan Karaman"
+title = "Zürafa"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -13,10 +13,10 @@ title = "Hakan Karaman"
   # description = "My awesome website"
 
 [author]
-  name = "Hakan Karaman"
-  image = "img/hk_photo.jpg"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  name = "Zürafa"
+  image = "img/logo.png"
+  headline = "Hakan Karaman Mimarlık Ajansı"
+  bio = "Mimarlık ajansımız çok çeşitli mimari hizmetler sunmaktadır."
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
