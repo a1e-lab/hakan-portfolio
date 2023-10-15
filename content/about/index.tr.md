@@ -1,5 +1,5 @@
 ---
-title: "HAKAN KARAMAN"
+title: "Hakan Karaman"
 date: 2023-06-14T15:15:03+03:00
 description: "Ünlü Türk mimarisi"
 layoutBackgroundHeaderSpace: false

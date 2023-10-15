@@ -1,5 +1,5 @@
 ---
-title: "HAKAN KARAMAN"
+title: "Hakan Karaman"
 date: 2023-06-14T15:14:41+03:00
 description: "Famus Turkish architector"
 layoutBackgroundHeaderSpace: false

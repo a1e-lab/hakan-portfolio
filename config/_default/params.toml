@@ -34,7 +34,7 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
   # logoDark = "img/dark-logo.jpg"
   showTitle = false
 
@@ -49,7 +49,7 @@ smartTOCHideUnfocusedChildren = true
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 9
+  showRecentItems = 6
   showMoreLink = true
   showMoreLinkDest = "/project"
   cardView = true
@@ -76,18 +76,18 @@ smartTOCHideUnfocusedChildren = true
   showPagination = true
   invertPagination = false
   showReadingTime = false
-  showTableOfContents = true
+  showTableOfContents = false
   showRelatedContent = true
   relatedContentLimit = 6
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  sharingLinks = [ "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
 [list]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
@@ -95,7 +95,7 @@ smartTOCHideUnfocusedChildren = true
   showViews = false
   showLikes = true
   showTableOfContents = true
-  showCards = true
+  showCards = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
