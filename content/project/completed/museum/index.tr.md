@@ -1,5 +1,5 @@
 ---
-title: "Adnan Menderes müze"
+title: "Adnan Menderes müzesi"
 ---
 
 Türkiye'de ilk demokratik seçimle iktidara gelen ve 1950 ila 1960 yılları arasında Başbakanlık yapmış olan Adnan Menderes, Aydın doğumludur. Menderes dönemi, Türkiye'nin demokrasi tarihinde önemli bir dönem olarak kabul edilir, ancak sonunda hüzünlü bir hatıra olarak kalmıştır.

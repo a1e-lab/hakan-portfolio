@@ -1,5 +1,5 @@
 ---
-title: "Sanayi lokantas"
+title: "Kuş Evi Sergisi"
 ---
 In Ottoman cities blessed with a rich geography, encompassing diverse flora, abundant water resources, and natural habitats, a rich culture of birds also thrived. During certain periods, people would flock to meadows and coves to listen to the songs of birds, especially the nightingales, which have been the subject of numerous literary works, songs, and folk songs. Coffeehouses and barber shops resounded with the melodies of canaries. "Experts" who could distinguish birds by their songs, colors, and sizes were always part of the conversations. Hospitals like Gurabahane-i Laklakan were established to care for migrating birds and storks.
 In the eyes of the people, birds held special significance. The bird beyond Mount Kaf was the Phoenix, Hacı Bektaş-ı Veli transformed into a falcon to rescue Prophet Muhammad (peace be upon him) from pursuers, and the dove that annually visited mosques and circled the Kaaba was believed to be the "leader of birds."
