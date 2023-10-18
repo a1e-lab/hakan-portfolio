@@ -12,8 +12,6 @@ Hakan Karaman Mimarlık, birçok farklı projede bu değerlere sadık kalarak, i
 {{< gallery >}}
 <img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="housing_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="housing_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="housing_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="housing_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="housing_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="housing_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />

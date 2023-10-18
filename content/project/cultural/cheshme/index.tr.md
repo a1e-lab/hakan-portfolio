@@ -1,5 +1,5 @@
 ---
-title: "Çeşme kentsel Dünüsüm"
+title: "Çeşme kentsel Dünüşüm"
 ---
 
 TARİH: 2012  

@@ -3,9 +3,11 @@
     "image" : "img/hk_photo.jpg",
     "bio": "Lead architector and founder of Zürafa architect agency",
     "social": [
-        { "instagram": "https://instagram.com" },
-        { "pinterest": "https://pinterest.com" },
-        { "whatsapp": "http://whatsapp.com" },
-        { "facebook": "https://facebook.com" }
+       { "whatsapp" : "https://wa.me/905395690900" },
+       { "instagram" : "https://instagram.com/hakankaramanmimarlik" },
+       { "facebook" : "https://facebook.com/profile.php?id=100037610876403" },
+       { "pinterest" : "https://pinterest.com/username" },
+       { "telegram" : "https://t.me/username" },
+       { "email" : "mailto:hello@your_domain.com" }
     ]
 }

@@ -1,4 +1,4 @@
 ---
-title: "Hakan Karaman"
+title: "Хакан Караман"
 ---
 

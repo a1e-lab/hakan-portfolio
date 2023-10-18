@@ -1,5 +1,5 @@
 ---
-title: "Sanayi lokantas"
+title: "Sanayi lokantası"
 ---
 
 TARİH: 2007  

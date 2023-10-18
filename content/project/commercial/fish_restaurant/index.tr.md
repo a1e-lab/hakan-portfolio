@@ -1,5 +1,5 @@
 ---
-title: "Balık lokantasının"
+title: "Balık lokantası"
 ---
 TARİH: 2013  
 YER: Kuşadası  

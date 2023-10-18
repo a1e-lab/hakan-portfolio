@@ -1,5 +1,5 @@
 ---
-title: "Kore savaşi anma alani"
+title: "Kore savaşı anma alanı"
 ---
 
 LÜLEBURGAZ BELEDİYESİ KORE SAVAŞI ANMA ALANI VE ZİYARETÇİ MERKEZİ

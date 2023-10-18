@@ -1,5 +1,5 @@
 ---
-title: "Yeni̇ceköy şi̇fa hamami"
+title: "Yeni̇ceköy şi̇fa hamamı"
 ---
 
 TARİH: 2017  

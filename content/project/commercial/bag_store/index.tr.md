@@ -1,5 +1,5 @@
 ---
-title: "Bag Store"
+title: "Çantacı"
 ---
 TARİH: 2015  
 YER: Kuşadası  
