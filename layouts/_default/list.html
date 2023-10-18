@@ -16,7 +16,7 @@
   {{ partial "breadcrumbs.html" . }}
   {{ end }}
   <h1 class="mt-5 text-4xl font-light text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
-  <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+  <div class="mt-1 mb-2 text-base font-light text-neutral-500 dark:text-neutral-400 print:hidden">
     {{ partial "article-meta/list.html" (dict "context" . "scope" "single") }}
   </div>
   <script>
