@@ -10,7 +10,7 @@ autoSwitchAppearance = true
 rtl = false
 dateFormat = "2 January 2006"
 
-copyright = "Copyright © 2023 Hakan Karaman; Created by [AleLab](https://github.com/a1e-lab/)"
+copyright = "Copyright © 2023-2026 Hakan Karaman; Created by [AleLab](https://github.com/a1e-lab/)"
 
 enableSearch = true
 enableCodeCopy = false
