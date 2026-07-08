@@ -1,5 +1,6 @@
 ---
 title: "Adnan Menderes museum"
+description: "Adnan Menderes museum project — historical museum in Koçarlı, Aydın"
 ---
 
 Adnan Menderes, who came to power in the first democratic election in Turkey and served as Prime Minister between 1950 and 1960, was born in Aydın. The Menderes era is considered an important period in Turkey's democratic history, but in the end it remained a sad memory.

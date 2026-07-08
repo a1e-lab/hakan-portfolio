@@ -1,5 +1,6 @@
 ---
 title: "Hotel rooms"
+description: "Hotel room interior design — comfortable and elegant hospitality spaces"
 ---
 
 The hotel room was elegantly designed with a comfortable king-size bed as its
@@ -10,8 +11,8 @@ flat-screen TV and a minibar. The ensuite bathroom featured sleek, contemporary
 fixtures and a spacious shower.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="interior_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="interior_02.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="interior_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="interior_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="interior_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="interior_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

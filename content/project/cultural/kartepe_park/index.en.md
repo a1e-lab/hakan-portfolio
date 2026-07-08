@@ -1,5 +1,6 @@
 ---
 title: "Kartepe park"
+description: "Kartepe park project — recreational and landscape design"
 ---
 
 Date: 2012  
@@ -15,8 +16,8 @@ The sun symbol in the square represents the rays that illuminate the gardens, an
 <img src="kartepe_park_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kartepe_park_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kartepe_park_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kartepe_park_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kartepe_park_07.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kartepe_park_08.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kartepe_park_09.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kartepe_park_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kartepe_park_07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kartepe_park_08.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kartepe_park_09.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

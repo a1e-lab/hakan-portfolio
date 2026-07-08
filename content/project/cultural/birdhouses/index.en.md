@@ -1,5 +1,6 @@
 ---
 title: "Bird house"
+description: "Birdhouse design project — cultural heritage and architectural tradition"
 date: 2023-06-18
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Йениджек лечебный хамам"
+description: "Проект традиционной турецкой бани (хамам) — реставрация и модернизация"
 ---
 Дата: 2017  
 Место: Кутахия - Эмет  
@@ -12,9 +13,9 @@ title: "Йениджек лечебный хамам"
 В проекте была использована местная архитектура. Детали архитектуры деревни были использованы с определенными углами. Баня состоит из дерева, камня травертина и бетона. Квадратная форма и ее повторение соответствуют участку.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="hamam_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="hamam_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="hamam_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="hamam_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="hamam_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="hamam_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -1,5 +1,6 @@
 ---
 title: "Мемориал Корейской войны"
+description: "Проект в Корее — международный архитектурный дизайн"
 ---
 
 Люлебургазская городская администрация. конкурс проектов памятника и центра посетителей, посвященного корейской войне.
@@ -10,8 +11,8 @@ title: "Мемориал Корейской войны"
 Этот дизайн, то есть сбор всех единиц под одним общим сюжетом; с точки зрения затрат, освобожденной общественной площади, сохранения существующих деревьев и использования пространства как части природы, предлагает экономичное, общественно-дружелюбное и экологически дружественное.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kore_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kore_02.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kore_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kore_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kore_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kore_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -1,0 +1,4 @@
+{{ define "main" }}
+  {{ $partial := print "home/" .Site.Params.homepage.layout ".html" }}
+  {{ partial $partial . }}
+{{ end }}

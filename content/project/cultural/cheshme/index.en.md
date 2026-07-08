@@ -1,5 +1,6 @@
 ---
 title: "Çeşme Urban Regeneratıon"
+description: "Çeşme architectural project — design in harmony with coastal landscape"
 ---
 DATE: 2012
 LOCATION: İzmir - Çeşme
@@ -13,8 +14,8 @@ buildings and an extension of their lifespan. It also aims to enhance the
 structural resilience during earthquakes.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_02.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

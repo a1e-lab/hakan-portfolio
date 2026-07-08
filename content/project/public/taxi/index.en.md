@@ -1,5 +1,6 @@
 ---
 title: "Taxi"
+description: "Taxi station project — functional urban infrastructure design"
 ---
 
 Being selected as a Taxi Innovation Award Finalist signifies recognition of your creativity and dedication to environmentally friendly and sustainable taxi designs. Congratulations to you and your design as part of this prestigious competition! Here are some key details about your finalist design:

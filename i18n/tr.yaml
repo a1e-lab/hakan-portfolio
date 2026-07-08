@@ -1,0 +1,8 @@
+# Turkish i18n overrides
+# Overrides untranslated strings from the Blowfish theme
+
+article:
+  part_of_series: "Bu makale bir serinin parçasıdır."
+  part: "Bölüm"
+  this_article: "Bu Makale"
+  related_articles: "İlgili Yazılar"

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ with .Site.Params.isoCode | default (.Site.LanguageCode | default " en") }} {{- . -}} {{ end }}" dir="{{ if .Site.Params.rtl | default false -}}
+<html lang="{{ with .Site.Params.isoCode | default (.Site.Language.Locale | default "en") }} {{- . -}} {{ end }}" dir="{{ if .Site.Params.rtl | default false -}}
     rtl
   {{- else -}}
     ltr
-  {{- end }}" class="scroll-smooth" data-default-appearance="{{ .Site.Params.defaultAppearance | default " light" }}"
-  data-auto-appearance="{{ .Site.Params.autoSwitchAppearance | default " true" }}">
+  {{- end }}" class="scroll-smooth" data-default-appearance="{{ .Site.Params.defaultAppearance | default "light" }}"
+  data-auto-appearance="{{ .Site.Params.autoSwitchAppearance | default "true" }}">
 {{- partial "head.html" . -}}
 
 <body
@@ -12,15 +12,11 @@
   <div id="the-top" class="absolute flex self-center">
     <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
       href="#main-content"><span
-        class="font-light text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>{{ i18n
+        class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>{{ i18n
       "nav.skip_to_main" }}</a>
   </div>
-  {{ $header := print "partials/header/" .Site.Params.header.layout ".html" }}
-  {{ if templates.Exists $header }}
+  {{ $header := print "header/" .Site.Params.header.layout ".html" }}
   {{ partial $header . }}
-  {{ else }}
-  {{ partial "partials/header/basic.html" . }}
-  {{ end }}
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
       {{ block "main" . }}{{ end }}

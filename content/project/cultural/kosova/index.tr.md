@@ -1,5 +1,6 @@
 ---
 title: "Kosova Camii"
+description: "Kosova projesi — kültürlerarası mimari tasarım"
 ---
 Tarih 2013   
 Yer kosova  
@@ -18,14 +19,14 @@ mümkün kılacaktır. Yoğun şekilde ışık alan konferans salonu, kütüphan
 mekânlar avluya bakmaktadır.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kosova_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kosova_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_05.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_07.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_08.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_09.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_08.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_09.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

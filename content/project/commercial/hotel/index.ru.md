@@ -1,5 +1,6 @@
 ---
 title: "Гостиница"
+description: "Проект гостиницы — элегантные интерьеры и архитектура"
 ---
 
 Этот дизайн был воплощен в жизнь для отеля.
@@ -8,5 +9,5 @@ title: "Гостиница"
 переосмысленные в контексте плавности и единства в проекте.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

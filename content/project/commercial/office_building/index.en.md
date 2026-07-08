@@ -1,5 +1,6 @@
 ---
 title: "Modern Office Building"
+description: "Office building project — contemporary workplace architecture"
 ---
 
 This five-story modern office building has been designed to perfectly align with the dynamics of urban life in the city center. The building's design combines contemporary architectural elements with a perfect balance of functionality and aesthetics.
@@ -10,6 +11,6 @@ Exterior Design: The exterior façade of the building is modern and blends with 
 This five-story modern office building represents a functional and aesthetic design that perfectly matches the fast pace of business life and the dynamics of the urban environment.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="office_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="office_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

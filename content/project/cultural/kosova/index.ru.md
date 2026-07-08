@@ -1,5 +1,6 @@
 ---
 title: "Косовская мечеть"
+description: "Проект в Косово — межкультурный архитектурный дизайн"
 ---
 
 Дата 2013  
@@ -10,14 +11,14 @@ title: "Косовская мечеть"
 Современные техники освещения, используемые для освещения мечети, позволят ей взаимодействовать с окружающей средой по-разному в специальные дни и в определенные даты, отходя от обычной иллюминации. Пространства, такие как конференц-зал, библиотека и ресторан, которые получают достаточно естественного света, выходят на двор.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kosova_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kosova_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_05.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_07.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_08.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_09.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_08.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_09.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

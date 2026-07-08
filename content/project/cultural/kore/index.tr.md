@@ -1,5 +1,6 @@
 ---
 title: "Kore savaşı anma alanı"
+description: "Kore projesi — uluslararası mimari tasarım"
 ---
 
 LÜLEBURGAZ BELEDİYESİ KORE SAVAŞI ANMA ALANI VE ZİYARETÇİ MERKEZİ
@@ -34,8 +35,8 @@ KULLANILMASI GİBİ AÇILARDAN BAKILDIĞINDA EKONOMİK, KAMUSAL YARARI GÖZETEN 
 DOSTU BİR ÇÖZÜM SUNMAKTADIR.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kore_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kore_02.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kore_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kore_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kore_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kore_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

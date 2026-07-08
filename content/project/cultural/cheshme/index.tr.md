@@ -1,5 +1,6 @@
 ---
 title: "Çeşme kentsel Dünüşüm"
+description: "Çeşme mimari projesi — kıyı manzarasıyla uyumlu tasarım"
 ---
 
 TARİH: 2012  
@@ -20,8 +21,8 @@ hem binanın yapı ömrünü uzatıp deprem esnasında dayanımını
 arttırması amaçlanmıştır.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_02.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

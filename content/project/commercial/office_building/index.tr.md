@@ -1,5 +1,6 @@
 ---
 title: "Modern Büro Binası"
+description: "Ofis binası projesi — çağdaş iş yeri mimarisi"
 ---
 Bu beş katlı modern ofis binası, şehir merkezindeki dinamiklere mükemmel bir şekilde uyum sağlamak üzere tasarlanmıştır. Binanın tasarımı, çağdaş mimari unsurlarla birleştirilmiş, işlevsellik ve estetik açıdan mükemmel bir denge sağlar.
 Zemin Kat: Zemin katta büyük bir giriş lobisi bulunur. Bu alan, ziyaretçileri sıcak bir karşılama sunarken, resepsiyon, bekleme alanları ve bir kafe gibi işlevsel alanlar içerir. Ayrıca, katlar arası iletişimi kolaylaştırmak için merdivenler ve asansörler bulunur.
@@ -9,6 +10,6 @@ Dış Tasarım: Binanın dış cephesi, modern ve şehre uyumlu bir şekilde tas
 Bu 5 katlı modern ofis binası, iş dünyasının hızlı tempolarına ve şehir yaşamının dinamiklerine mükemmel bir şekilde cevap veren, işlevsel ve estetik açıdan düşünülmüş bir tasarım sunar.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="office_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="office_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

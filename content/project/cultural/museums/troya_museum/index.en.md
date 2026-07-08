@@ -1,5 +1,6 @@
 ---
 title: "Troya Museum"
+description: "Troya Museum competition project — archaeological museum in Çanakkale"
 ---
 
 Date 2012  
@@ -16,5 +17,4 @@ This project was realized for a national competition organized by the Ministry o
 <img src="troya_museum_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="troya_museum_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="troya_museum_07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="troya_museum_08.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -1,5 +1,6 @@
 ---
 title: "Hotel"
+description: "Hotel design project — elegant hospitality interiors and architecture"
 ---
 
 This design has been implemented for a hotel.
@@ -8,5 +9,5 @@ reflecting the fundamental characteristics of the traditional Turkish house,
 reimagined in the context of fluidity and unity in the project.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

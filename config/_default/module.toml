@@ -1,3 +1,1 @@
-[hugoVersion]
-  extended = false
-  min = "0.87.0"
+# Module configuration - compatibility handled by theme's own module.toml

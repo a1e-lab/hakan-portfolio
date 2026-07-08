@@ -1,5 +1,6 @@
 ---
 title: "Velespit"
+description: "Bicycle station project — sustainable urban mobility design"
 ---
 
 Date: 2016  
@@ -9,5 +10,5 @@ This table, resembling a bicycle, has a dynamic appearance. Thanks to its interl
 
 {{< gallery >}}
 <img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="velespit_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="velespit_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

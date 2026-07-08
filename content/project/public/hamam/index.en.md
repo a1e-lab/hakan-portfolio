@@ -1,5 +1,6 @@
 ---
 title: "Yeniçeköy healing bath"
+description: "Traditional Turkish bath (hamam) project — restoration and modernization"
 ---
 
 DATE: 2017  
@@ -12,9 +13,9 @@ The waters are collected through captations. The water temperature ranges from 3
 The project is based on the local architecture of the region. Details from the architecture of the village were incorporated with specific angles. The bath is made of wood, travertine stone, and concrete. Its square form and repetition are in harmony with the land.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="hamam_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="hamam_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="hamam_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="hamam_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="hamam_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="hamam_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -4,9 +4,23 @@
 #
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
-colorScheme = "congo"
+colorScheme = "slate"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
+
+[font]
+  [font.heading]
+    family = "DM Serif Display"
+    [[font.heading.sizes]]
+      size = "3xl"
+      weight = "normal"
+      lineHeight = "1.2"
+  [font.body]
+    family = "Inter"
+    [[font.body.sizes]]
+      size = "base"
+      weight = "300"
+      lineHeight = "1.7"
 rtl = false
 dateFormat = "2 January 2006"
 
@@ -19,23 +33,38 @@ enableImageLazyLoading = true
 # robots = ""
 fingerprintAlgorithm = "sha256"
 
-mainSections = ["project", "services"]
+mainSections = ["project"]
 
 disableImageOptimization = false
 
 # logo = "img/logo.png"
 # secondaryLogo = "img/light_logo.png"
 
-defaultBackgroundImage = "/img/bg.jpg"
-defaultFeaturedImage = "/img/bg.jpg"
+defaultBackgroundImage = "img/bg.jpg"
+defaultFeaturedImage = "img/bg.jpg"
 
 highlightCurrentMenuArea = true
-smartTOC = true
-smartTOCHideUnfocusedChildren = true
+smartTOC = false
+smartTOCHideUnfocusedChildren = false
+
+[author]
+  name = "Zürafa"
+  image = "img/logo.png"
+  email = "karaman.hakan@gmail.com"
+  headline = "Hakan Karaman Mimarlık Ajansı | Architecture Agency"
+  bio = "Mimarlık ajansımız çok çeşitli mimari hizmetler sunmaktadır."
+  links = [
+    { email = "mailto:karaman.hakan@gmail.com" },
+    { facebook = "https://facebook.com/profile.php?id=100037610876403" },
+    { instagram = "https://instagram.com/hakankaramanmimarlik" },
+    { pinterest = "https://pinterest.com/karamanhakan" },
+    { telegram = "https://t.me/hakankaramanmimarlik" },
+    { whatsapp = "https://wa.me/905395690900" },
+  ]
 
 [header]
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
-  # logoDark = "img/dark-logo.jpg"
+  # logoDark = "img/dark-location.jpg"
   showTitle = false
 
 [footer]
@@ -47,7 +76,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  homepageImage = "img/bg.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
@@ -64,8 +93,6 @@ smartTOCHideUnfocusedChildren = true
   showAuthor = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
@@ -87,13 +114,11 @@ smartTOCHideUnfocusedChildren = true
 
 [list]
   showHero = true
-  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background
-  layoutBackgroundHeaderSpace = false
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showSummary = false
   showViews = false
-  showLikes = true
+  showLikes = false
   showTableOfContents = true
   showCards = false
   groupByYear = false
@@ -107,19 +132,19 @@ smartTOCHideUnfocusedChildren = true
 [taxonomy]
   showTermCount = true
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = true
   cardView = false
 
 [term]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = true
   groupByYear = false
   cardView = true

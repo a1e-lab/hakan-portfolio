@@ -1,0 +1,13 @@
+{{- /* GitHub shortcode stub for Hugo 0.160+ compatibility.
+  The original theme shortcode uses getJSON which was removed.
+  If you need this feature, use the 'repo' parameter to manually specify
+  repo details: {{< github repo="user/repo" >}}
+*/ -}}
+{{- $repo := .Get "repo" | default "" -}}
+{{- if $repo -}}
+<div class="p-4 border border-neutral-200 dark:border-neutral-700 rounded-md">
+  <p class="text-neutral-500 dark:text-neutral-400 text-sm">
+    🔗 <a href="https://github.com/{{ $repo }}" target="_blank" rel="noopener">{{ $repo }}</a>
+  </p>
+</div>
+{{- end -}}

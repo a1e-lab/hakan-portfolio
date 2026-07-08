@@ -1,5 +1,6 @@
 ---
 title: "Картепе парк"
+description: "Проект парка Картепе — рекреационный и ландшафтный дизайн"
 ---
 Дата: 2012 год  
 Место: Коджаэли/Картепе  
@@ -14,8 +15,8 @@ title: "Картепе парк"
 <img src="kartepe_park_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kartepe_park_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kartepe_park_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kartepe_park_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kartepe_park_07.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kartepe_park_08.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kartepe_park_09.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kartepe_park_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kartepe_park_07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kartepe_park_08.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kartepe_park_09.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

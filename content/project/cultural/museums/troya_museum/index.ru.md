@@ -1,5 +1,6 @@
 ---
 title: "Троя Музей"
+description: "Конкурсный проект музея Трои — археологический музей в Чанаккале"
 ---
 
 Дата 2012  
@@ -16,5 +17,4 @@ title: "Троя Музей"
 <img src="troya_museum_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="troya_museum_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="troya_museum_07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="troya_museum_08.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

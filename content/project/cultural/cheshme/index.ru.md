@@ -1,5 +1,6 @@
 ---
 title: "Проект реконструкции города Чешме"
+description: "Архитектурный проект Чешме — дизайн в гармонии с прибрежным ландшафтом"
 ---
 
 ДАТА: 2012 год  
@@ -10,8 +11,8 @@ title: "Проект реконструкции города Чешме"
 Основная идея этого проекта - добавление "оболочки" к зданию. Эта оболочка, состоящая из стальных конструкций, деревянных цветочных горшков и системы солнечной энергии и орошения, стремится обеспечить как климатическую защиту для зданий, так и продление их срока службы. Она также направлена на повышение структурной устойчивости в случае землетрясений.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_02.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="cheshme_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="cheshme_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

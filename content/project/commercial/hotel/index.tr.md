@@ -1,5 +1,6 @@
 ---
 title: "Hotel"
+description: "Otel tasarım projesi — şık konaklama iç mekanları ve mimarisi"
 ---
 
 Bu tasarım bir otel için hayata geçirilmiştir.
@@ -9,5 +10,5 @@ Türk evinin temel özelliği olan akışkanlık ve
 birliktelik ortak bağlamda yeniden kurgulanmıştır.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

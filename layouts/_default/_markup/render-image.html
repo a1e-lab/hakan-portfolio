@@ -1,0 +1,53 @@
+{{ $disableImageOptimization := .Page.Site.Params.disableImageOptimization | default false }}
+{{ $url := urls.Parse .Destination }}
+{{ $altText := .Text }}
+{{ $caption := .Title }}
+{{ if findRE "^https?" $url.Scheme }}
+  <figure>
+    <img loading="lazy" decoding="async" class="my-0 rounded-md" src="{{ $url.String }}" alt="{{ $altText }}" />
+    {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+  </figure>
+{{ else }}
+  {{ $resource := "" }}
+  {{ if $.Page.Resources.GetMatch ($url.String) }}
+    {{ $resource = $.Page.Resources.GetMatch ($url.String) }}
+  {{ else if resources.GetMatch ($url.String) }}
+    {{ $resource = resources.Get ($url.String) }}
+  {{ end }}
+  {{ with $resource }}
+    <figure>
+      {{ if $disableImageOptimization }}
+      <img
+        loading="lazy" decoding="async"
+        class="my-0 rounded-md"
+        src="{{ .RelPermalink }}"
+        alt="{{ $altText }}"
+      />
+      {{ else }}
+      {{ $w330 := .Resize "330x webp" }}
+      {{ $w660 := .Resize "660x webp" }}
+      {{ $w1024 := .Resize "1024x webp" }}
+      {{ $w1320 := .Resize "1320x webp" }}
+      {{ $fallback := .Resize "660x" }}
+      <img
+        loading="lazy" decoding="async"
+        width="{{ .Width }}" height="{{ .Height }}"
+        class="my-0 rounded-md"
+        srcset="
+        {{ $w330.RelPermalink }} 330w,
+        {{ $w660.RelPermalink }} 660w,
+        {{ $w1024.RelPermalink }} 1024w,
+        {{ $w1320.RelPermalink }} 2x"
+        src="{{ $fallback.RelPermalink }}"
+        alt="{{ $altText }}"
+      />
+      {{ end }}
+      {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+    </figure>
+  {{ else }}
+    <figure>
+      <img loading="lazy" decoding="async" class="my-0 rounded-md" src="{{ $url.String }}" alt="{{ $altText }}" />
+      {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+    </figure>
+  {{ end }}
+{{ end }}

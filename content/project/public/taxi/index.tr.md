@@ -1,5 +1,6 @@
 ---
 title: "Taksi"
+description: "Taksi istasyonu projesi — işlevsel kentsel altyapı tasarımı"
 ---
 
 Taksi İnovasyon Ödülü Finalisti olarak seçilmeniz, çevre dostu ve sürdürülebilir taksi tasarımları konusundaki yaratıcılığınızın ve özverinizin tanınması anlamına gelmektedir. Sizi ve tasarımınızı bu prestijli yarışmanın bir parçası olarak tebrik ediyoruz! İşte finalist tasarımınızın bazı önemli detayları: Finalist Tasarımınız: Tasarımınız, geleceğin taksi taşımacılığını daha çevre dostu ve sürdürülebilir hale getirmek için yenilikçi bir yaklaşım sunuyor.

@@ -1,5 +1,6 @@
 ---
 title: "Пешеходный мост"
+description: "Проект моста через Шпрее — инфраструктура и городской дизайн в Берлине"
 ---
 
 Этот проект моста реализуется в немецкой Саксонии, Бранденбурге.
@@ -12,11 +13,11 @@ title: "Пешеходный мост"
 Она будет использоваться для таких мероприятий, как коктейли и выступления жителей города.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_05.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

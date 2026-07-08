@@ -1,5 +1,6 @@
 ---
 title: "Troya Müzesi"
+description: "Troya Müzesi yarışma projesi — Çanakkale'de arkeoloji müzesi"
 ---
 
 Tarih 2002  
@@ -29,5 +30,4 @@ dönüştürmektedir.
 <img src="troya_museum_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="troya_museum_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="troya_museum_07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="troya_museum_08.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

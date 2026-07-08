@@ -1,5 +1,6 @@
 ---
 title: "Köprü"
+description: "Spree köprüsü projesi — Berlin'de altyapı ve kentsel tasarım"
 ---
 
 Bu köprü projesi, Almanya’nın Saksonya, Brandenburg,
@@ -15,11 +16,11 @@ için farklı mekânsal tecrübeleri edinecekleri bir alan
 hizmeti görecektir.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_05.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

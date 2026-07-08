@@ -1,5 +1,6 @@
 ---
 title: "Mahya"
+description: "Interactive Mahya project — traditional Ramadan illumination reimagined"
 ---
 DATA 2010  
 PLACE Istanbul  

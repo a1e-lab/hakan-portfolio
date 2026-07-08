@@ -1,5 +1,6 @@
 ---
 title: "Bird House"
+description: "Traditional Ottoman birdhouse design project — cultural heritage reinterpreted"
 ---
 
 In Ottoman cities blessed with a rich geography, encompassing diverse flora, abundant water resources, and natural habitats, a rich culture of birds also thrived. During certain periods, people would flock to meadows and coves to listen to the songs of birds, especially the nightingales, which have been the subject of numerous literary works, songs, and folk songs. Coffeehouses and barber shops resounded with the melodies of canaries. "Experts" who could distinguish birds by their songs, colors, and sizes were always part of the conversations. Hospitals like Gurabahane-i Laklakan were established to care for migrating birds and storks.

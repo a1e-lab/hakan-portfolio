@@ -1,5 +1,6 @@
 ---
 title: "Велеспид"
+description: "Проект велосипедной станции — устойчивый городской мобильный дизайн"
 ---
 
 Дата 2016
@@ -8,5 +9,5 @@ title: "Велеспид"
 
 {{< gallery >}}
 <img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="velespit_01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="velespit_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

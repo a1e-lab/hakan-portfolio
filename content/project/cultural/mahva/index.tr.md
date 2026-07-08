@@ -1,5 +1,6 @@
 ---
 title: "Mahya"
+description: "Interaktif Mahya projesi — geleneksel Ramazan aydınlatmasının yeniden yorumlanması"
 ---
 
 TARİH: 2010  

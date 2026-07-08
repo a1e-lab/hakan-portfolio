@@ -1,5 +1,6 @@
 ---
 title: "Yeni̇ceköy şi̇fa hamamı"
+description: "Geleneksel Türk hamamı projesi — restorasyon ve modernizasyon"
 ---
 
 TARİH: 2017  
@@ -18,9 +19,9 @@ ahşap taş traverten ve betondan oluşmaktadır. Kare
 formu ve bunun tekrarı arsayla ilişkiye uygundur.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="hamam_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="hamam_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="hamam_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="hamam_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="hamam_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="hamam_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -1,10 +1,12 @@
 {{ if .IsTranslated }}
-<div>
+<div role="navigation" aria-label="{{ i18n "translations" | default "Language selector" }}">
   <div class="cursor-pointer flex items-center nested-menu">
     <a
       href="#"
       class="text-base font-light text-gray-500 hover:text-gray-900"
-      title="{{ .Title }}"
+      aria-label="{{ i18n "global.language" | default "Select language" }}"
+      role="button"
+      tabindex="0"
     >
       {{- i18n "global.language" | markdownify | emojify -}}
     </a>
@@ -13,13 +15,14 @@
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
       <div class="flex flex-col space-y-3">
         {{ range .AllTranslations }}
-        <a href="{{ .RelPermalink }}" class="flex items-center">
-          <p
+        <a href="{{ .RelPermalink }}" class="flex items-center"
+           aria-label="{{ .Language.Label | default .Lang }}">
+          <span
             class="text-sm font-sm text-gray-500 hover:text-gray-900"
             title="{{ .Title }}"
           >
             {{ .Language.Params.displayName | emojify }}
-          </p>
+          </span>
         </a>
         {{ end }}
       </div>

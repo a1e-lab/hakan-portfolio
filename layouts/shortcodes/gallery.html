@@ -1,0 +1,7 @@
+{{- /* Gallery shortcode — CSS Grid + render-image hook for resource processing */ -}}
+{{ $galleryId := delimit (slice "gallery" .Ordinal now.UnixNano) "-" }}
+{{ $inner := .Inner }}
+{{ $inner := replaceRE `<img\s+[^>]*src="([^"]+)"[^>]*/?>` `![image](${1})` $inner }}
+<div id="{{ $galleryId }}" class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-1 my-4">
+  {{ $inner | $.Page.RenderString }}
+</div>

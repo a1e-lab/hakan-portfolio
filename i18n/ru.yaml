@@ -1,0 +1,8 @@
+# Russian i18n overrides
+# Overrides untranslated strings from the Blowfish theme
+
+article:
+  part_of_series: "Эта статья является частью серии."
+  part: "Часть"
+  this_article: "Эта статья"
+  related_articles: "Похожие"

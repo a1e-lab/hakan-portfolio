@@ -1,0 +1,67 @@
+/* 
+  Zürafa Architecture Portfolio - Custom Styles
+  Light typography for elegant architectural presentation
+*/
+
+/* Thin scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 3px;
+}
+
+/* Smooth transitions */
+* {
+  transition-property: background-color, border-color, color;
+  transition-duration: 150ms;
+  transition-timing-function: ease;
+}
+
+/* Light heading weights for architectural elegance */
+h1, h2, h3, h4, h5, h6,
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+  font-weight: 300;
+  letter-spacing: -0.01em;
+}
+
+/* Override Tailwind font-weight classes used in headings
+   Targeting only heading/element combos that come from theme templates */
+.font-extrabold:is(h1, h2, h3),
+.font-bold:is(h1, h2, h3, h4, .article-title, .card-title),
+.font-semibold:is(h1, h2, h3, h4) {
+  font-weight: 300;
+}
+
+/* Navigation - normal weight for readability */
+nav a, .menu a, nav span, .menu span {
+  font-weight: 400;
+}
+
+/* Buttons - keep readable */
+button, .btn, [class*="btn-"] {
+  font-weight: 400;
+}
+
+/* Make images in galleries pop with subtle border */
+.gallery img,
+[id^="gallery"] figure {
+  margin: 0;
+  line-height: 0;
+}
+[id^="gallery"] figure img {
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* Article title cards */
+.thumbnail_card + div .text-xl {
+  font-weight: 300;
+}

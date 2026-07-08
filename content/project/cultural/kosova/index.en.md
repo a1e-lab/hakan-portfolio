@@ -1,5 +1,6 @@
 ---
 title: "Kosovo Mosque"
+description: "Kosovo project — cross-cultural architectural design"
 ---
 
 Date 2013  
@@ -10,14 +11,14 @@ This mosque is a synthesis of a spacious plan and a central dome. Like in Ottoma
 Modern techniques used for lighting the mosque will allow it to interact differently with the surroundings on special occasions and specific dates, breaking away from routine illumination. Spaces like the conference hall, library, and restaurant, which receive ample natural light, overlook the courtyard.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kosova_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="kosova_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_05.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_07.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_08.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="kosova_09.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_08.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="kosova_09.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -1,5 +1,6 @@
 ---
 title: "Kayseri Chamber of Commerce Competition"
+description: "Kayseri Chamber of Commerce competition project — urban landmark proposal"
 ---
 
 This project represents a sustainable and eco-friendly city project developed for the Kayseri Chamber of Commerce competition. The project is designed as a significant step towards a greener and more sustainable life in the cities of the future.
@@ -13,5 +14,5 @@ Key Features:
 5. User-friendliness: The project is oriented towards providing convenience for residents and visitors. It facilitates urban transportation, increases green spaces, and promotes the creation of social spaces.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

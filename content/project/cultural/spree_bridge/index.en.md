@@ -1,5 +1,6 @@
 ---
 title: "Bridge"
+description: "Spree bridge project — infrastructure and urban design in Berlin"
 ---
 
 This bridge project is carried out in Germany's Saxony, Brandenburg,
@@ -15,11 +16,11 @@ An area where they can gain different spatial experiences
 will receive the service.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="bridge_03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_05.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="bridge_06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="bridge_06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -19,3 +19,8 @@ node_modules
 .DS_Store
 **/.DS_Store
 .hugo_build.lock
+
+# Hugo build output
+public/
+resources/_gen/
+resources/

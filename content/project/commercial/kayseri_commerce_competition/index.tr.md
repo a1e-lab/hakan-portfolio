@@ -1,5 +1,6 @@
 ---
 title: "Kayseri Ticaret Odası Yarışması"
+description: "Kayseri Ticaret Odası yarışma projesi — kentsel dönüm noktası önerisi"
 ---
 
 Bu proje, Kayseri Ticaret Odası tarafından düzenlenen bir yarışma için geliştirilen sürdürülebilir ve çevreci bir kent projesini temsil etmektedir. Proje, geleceğin kentlerinde daha yeşil ve sürdürülebilir bir yaşamı teşvik eden önemli bir adım olarak tasarlanmıştır.
@@ -13,5 +14,5 @@ Bu proje, Kayseri Ticaret Odası tarafından düzenlenen bir yarışma için gel
 5. Kullanım Kolaylığı: Proje, sakinleri ve ziyaretçileri için kullanım kolaylığına odaklanır. Kent içi ulaşımı kolaylaştırmak, yeşil alanları artırmak ve sosyal alanları teşvik etmek için düşünülmüş olanaklar sunar.
 
 {{< gallery >}}
-<img src="featured.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

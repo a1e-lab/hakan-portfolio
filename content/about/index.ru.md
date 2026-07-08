@@ -2,6 +2,7 @@
 title: "Хакан Караман"
 date: 2023-06-14T15:15:08+03:00
 description: "Известный Турецкий архитектор"
+heroStyle: "background"
 layoutBackgroundHeaderSpace: false
 showAuthor: true
 authors:
