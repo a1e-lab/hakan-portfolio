@@ -18,12 +18,21 @@ buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[security]
+  [security.funcs]
+    allowGetJSON = true
+
 [imaging]
   anchor = 'Center'
+  quality = 80
+  resampleFilter = 'Lanczos'
+  hint = 'photo'
+
+[params]
+  disableImageOptimization = false
+  env = "production"
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
   author = "authors"
   series = "series"
 
@@ -42,18 +51,6 @@ buildFuture = false
     [[related.indices]]
         name = "tags"
         weight = 100
-
-    [[related.indices]]
-        name = "project"
-        weight = 100
-
-    [[related.indices]]
-        name = "services"
-        weight = 50
-
-    [[related.indices]]
-        name = "authors"
-        weight = 20
 
     [[related.indices]]
         name = "date"
