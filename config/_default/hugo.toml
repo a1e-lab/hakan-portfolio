@@ -5,8 +5,10 @@ theme = "blowfish"
 baseURL = "https://hakankaraman.com.tr/"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
+
+[pagination]
+  pagerSize = 10
 
 defaultContentLanguage = "tr"
 defaultContentLanguageInSubdir = false
