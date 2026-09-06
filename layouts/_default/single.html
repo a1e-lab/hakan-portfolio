@@ -20,7 +20,7 @@
       {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
     </div>
 
-    {{ $authorsData := hugo.Data.authors }}
+    {{ $authorsData := .Site.Data.authors }}
     {{ $showAuthor := 0 }}
 
     {{ if .Params.showAuthor | default (.Site.Params.article.showAuthor | default true) }}
