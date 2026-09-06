@@ -1,0 +1,4 @@
+baseURL = "https://hakankaraman.com.tr/"
+theme = "blowfish"
+defaultContentLanguage = "tr"
+defaultContentLanguageInSubdir = false
