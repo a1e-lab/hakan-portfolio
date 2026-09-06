@@ -16,7 +16,11 @@
       "nav.skip_to_main" }}</a>
   </div>
   {{ $header := print "header/" .Site.Params.header.layout ".html" }}
-  {{ partial $header . }}
+  {{ if templates.Exists (print "partials/" $header) }}
+    {{ partial $header . }}
+  {{ else }}
+    {{ partial "header/basic.html" . }}
+  {{ end }}
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
       {{ block "main" . }}{{ end }}
