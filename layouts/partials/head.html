@@ -1,5 +1,6 @@
 <head>
   <meta charset="utf-8" />
+  {{ partial "auto-language.html" . }}
   {{ with .Site.Language.Params.htmlCode | default .Site.LanguageCode }}
   <meta http-equiv="content-language" content="{{ . }}" />
   {{ end }}
