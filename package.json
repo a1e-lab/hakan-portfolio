@@ -1,0 +1,31 @@
+{
+  "name": "hakan-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Hakan Karaman portfolio — Hugo + Blowfish theme",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
+  },
+  "volta": {
+    "node": "24.18.1",
+    "npm": "11.12.1"
+  },
+  "scripts": {
+    "dev": "hugo server --buildDrafts --buildFuture",
+    "build": "hugo --gc --minify",
+    "build:preview": "hugo --gc --minify --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL || hugo --gc --minify --buildDrafts --buildFuture",
+    "assets:install": "npm --prefix themes/blowfish install",
+    "assets:build": "npm --prefix themes/blowfish run build",
+    "format": "npx prettier --write \"**/*.{js,css,md,json,yml,yaml}\"",
+    "clean": "rimraf public resources/_gen .hugo_build.lock"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.7"
+  },
+  "packageManager": "npm@11.12.1",
+  "browserslist": [
+    "defaults"
+  ]
+}
